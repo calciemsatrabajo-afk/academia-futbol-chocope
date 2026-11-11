@@ -1,0 +1,16 @@
+# Credenciales
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Archivos locales
+*.log
